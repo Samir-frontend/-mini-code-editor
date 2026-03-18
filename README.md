@@ -1,4 +1,4 @@
-# -mini-code-editor
+# mini code editor
 VS Code style mini code editor built using HTML CSS JS
 Features:
 - HTML CSS JS editor
