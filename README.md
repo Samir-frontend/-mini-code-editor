@@ -2,13 +2,19 @@
 
 A VS Code style mini code editor built using HTML, CSS and JavaScript.
 
-## Features
+## 🚀 Features
 - HTML, CSS, JS editor
 - Live output preview
-- Dark theme
-- Simple UI
+- Dark theme UI
+- Simple and clean design
 
-## Technologies Used
+## 🛠️ Technologies Used
 - HTML
 - CSS
 - JavaScript
+
+## 📸 Preview
+Type your code and see live output instantly.
+
+## 👨‍💻 Author
+Samir
