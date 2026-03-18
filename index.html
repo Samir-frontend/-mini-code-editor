@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Mini Code Editor</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/codemirror.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/theme/material-darker.min.css">
+
+</head>
+
+<body>
+
+<h2 class="title">💻 Mini Code Editor</h2>
+
+<div class="container">
+
+<div class="editor">
+
+<label>HTML</label>
+<textarea id="htmlCode"></textarea>
+
+<label>CSS</label>
+<textarea id="cssCode"></textarea>
+
+<label>JavaScript</label>
+<textarea id="jsCode"></textarea>
+
+<div class="buttons">
+
+<button onclick="runCode()">Run</button>
+<button onclick="clearCode()">Clear</button>
+
+</div>
+
+</div>
+
+<div class="preview">
+
+<iframe id="output"></iframe>
+
+</div>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/codemirror.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/mode/xml/xml.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/mode/css/css.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/mode/javascript/javascript.min.js"></script>
+
+<script src="script.js"></script>
+
+</body>
+</html>
