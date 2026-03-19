@@ -16,5 +16,8 @@ A VS Code style mini code editor built using HTML, CSS and JavaScript.
 ## 📸 Preview
 Type your code and see live output instantly.
 
+## 🚀 Live Demo
+https://samir-frontend.github.io/mini-code-editor/
+
 ## 👨‍💻 Author
 Samir
